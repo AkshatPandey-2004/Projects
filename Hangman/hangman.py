@@ -242,3 +242,4 @@ word_list=Difficulty()
 time.sleep(2)
 CPU()
 #Thank You
+#by akshat Pandey 
